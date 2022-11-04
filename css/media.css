@@ -1,0 +1,268 @@
+/*/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.dp_m[data-bs-popper] {
+    top: 50px;
+    left: 0;
+    
+}
+.dp_m {
+    width: 295px;
+    padding: 5px 5px;
+}
+
+/*slider start*/
+.s_item {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.s_item h2 {
+    font-size: 45px;
+}
+.s_item p {
+    padding: 10px 0;
+}
+
+/*about start*/
+.ab_write {
+    text-align: center;
+}
+
+/*project start*/
+.project {
+    margin-top: 50px;
+}
+.p_img {
+    margin-top: 17px;
+}
+
+/*why choose nepro start*/
+.work {
+    margin-top:  50px;
+}
+.work_item {
+    text-align: center;
+}
+
+/*team start*/
+.t_item {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.team_title {
+    margin: 0 auto;
+}
+
+/*discription start*/
+.d_btn {
+	    writing-mode: horizontal-tb;
+    text-transform: uppercase;
+    margin: 0 22px;
+}
+
+/*contract start*/
+.con_title h2{
+    font-size: 22px;
+    margin: -84px 6px 27px;
+    
+}
+.con_item {
+    padding: 70px 4px;
+}
+/*footer start*/
+footer{
+    margin-top:60px ;
+}
+
+.f_item{
+    margin-bottom: 60px;
+}
+.f_item ul li a i {
+    font-size: 25px;
+}
+.f_item_a ul li a {
+    margin: 0 41px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*header start*/
+ .dp_m[data-bs-popper] {
+    top: -15px;
+    left: 92px;
+}
+.dp_m {
+    padding: 8px 8px;
+}
+
+/*slider start*/
+.s_item {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.s_item h2 {
+    font-size: 48px;
+}
+.s_item p {
+    padding: 20px 0;
+}
+
+/*welcome start*/
+.s_service {
+    margin: 40px 70px 0;
+}
+
+/*about start*/
+.ab_write {
+    text-align: center;
+}
+
+/*project start*/
+.project {
+    margin-top: 60px;
+}
+
+/*why choose nepro start*/
+.work {
+    margin:  50px 70px 0;
+}
+.work_item {
+    text-align: center;
+}
+
+/*team start*/
+.t_item {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.team_title {
+    margin: 0 auto;
+}
+/*discription start*/
+.d_btn {
+	    writing-mode: horizontal-tb;
+    text-transform: uppercase;
+    margin: 0 55px;
+}
+/*contract start*/
+.con_title h2{
+    font-size: 28px;
+    margin: -88px 90px 45px;
+    
+}
+.con_item {
+    padding: 70px 20px;
+}
+
+/*footer start*/
+footer{
+    margin-top:70px ;
+}
+
+.f_item{
+    margin-bottom: 70px;
+}
+.f_item2 {
+    text-align: center;
+}
+.f_item_a ul li a {
+    margin: 0 50px;
+}
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.dp_m[data-bs-popper] {
+    top: -17px;
+    left: 90px;
+}
+
+/*slider start*/
+.s_item {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+/*about start*/
+.ab_write {
+    text-align: center;
+}
+
+/*project start*/
+.project {
+    margin-top: 70px;
+}
+
+/*why choose nepro start*/
+.work {
+    margin-top: 70px;
+}
+
+/*team start*/
+.t_item {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/*discription start*/
+.d_btn {
+	    writing-mode: horizontal-tb;
+    text-transform: uppercase;
+    margin: 0 55px;
+}
+/*contract start*/
+.con_title h2{
+    margin: -88px 175px 50px;
+    
+}
+
+/*footer start*/
+footer{
+    margin-top:80px ;
+}
+
+.f_item{
+    margin-bottom: 80px;
+}
+.f_item2 {
+    text-align: center;
+}
+.f_item_a ul li a {
+    margin: 0 46px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  
+  /*team start*/
+     .team_title {
+    padding: 10px 0px;
+    width: 216px;
+    background-color: #ffffff;
+}
+
+/*contract start*/
+.con_title h2{
+    margin: -88px 295px 76px;
+    
+}
+.f_item_a ul li a {
+    margin: 0 6px;
+}
+
+}
+
+/*Extra large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
